@@ -1,0 +1,7 @@
+name: workspace
+
+environment:
+  sdk: 3.2.6
+
+dev_dependencies:
+  flutter_lints: 3.0.1
